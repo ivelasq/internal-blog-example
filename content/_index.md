@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: The Hugo Apéro site is a great way of consolidating resources for your internal data science community.
+description: The Hugo Apéro theme is a great option for consolidating resources for your internal data science community.
 image_left: true
 images:
 - img/featured.jpg

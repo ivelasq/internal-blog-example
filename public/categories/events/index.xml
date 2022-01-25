@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Data Science Community Site</title>
+    <link>/categories/events/</link>
+    <description>Recent content in Events on Data Science Community Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RStudio Community Monthly Events - January 2022</title>
+      <link>/blog/2022-01-25-rstudio-community-monthly-events-january-2022/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2022-01-25-rstudio-community-monthly-events-january-2022/</guid>
+      <description>Photo by Jong Marshes on Unsplash
+Welcome to RStudio Community Monthly Events Roundup, where we update you on upcoming events happening at RStudio this month. Missed the great talks and presentations from last month? Find them listed under ICYMI: December 2021 Events.
+You can subscribe to the Community Events Calendar so that new events will automatically appear on your calendar. Please note that by subscribing, all of the events in the calendar will appear on your own calendar.</description>
+    </item>
+    
+  </channel>
+</rss>
