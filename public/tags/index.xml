@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data Science Community Site</title>
-    <link>/tags.html</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Data Science Community Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>open source</title>
-      <link>/tags/open-source.html</link>
+      <link>/tags/open-source/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/open-source.html</guid>
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ggplot2</title>
-      <link>/tags/ggplot2.html</link>
+      <link>/tags/ggplot2/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ggplot2.html</guid>
+      <guid>/tags/ggplot2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown</title>
-      <link>/tags/rmarkdown.html</link>
+      <link>/tags/rmarkdown/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rmarkdown.html</guid>
+      <guid>/tags/rmarkdown/</guid>
       <description></description>
     </item>
     

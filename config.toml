@@ -1,4 +1,4 @@
-baseURL = "colorado.rstudio.com/rsc/content/66aced59-0b29-4071-90d5-bd14fde585e8/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Data Science Community Site"
@@ -13,8 +13,6 @@ paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
-relativeurls=true
-uglyURLs=true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -119,11 +117,6 @@ uglyURLs=true
     title = "Talks"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "How To"
-    title = "How To"
-    url = "/collection/"
-    weight = 5
     
   # Configure footer  
   [[menu.footer]]
