@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meetup on Data Science Community Site</title>
-    <link>/categories/meetup/</link>
+    <link>/categories/meetup.html</link>
     <description>Recent content in meetup on Data Science Community Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Jan 2020 14:15:59 -0600</lastBuildDate><atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business Reports with R Markdown</title>
-      <link>/talk/business-reports-rmarkdown/</link>
+      <link>/talk/business-reports-rmarkdown.html</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/business-reports-rmarkdown/</guid>
+      <guid>/talk/business-reports-rmarkdown.html</guid>
       <description>Photo by Alessandro Sacchi on Unsplash</description>
     </item>
     
     <item>
       <title>Communicating the Value of Data Science</title>
-      <link>/talk/ds-teams/</link>
+      <link>/talk/ds-teams.html</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/ds-teams/</guid>
+      <guid>/talk/ds-teams.html</guid>
       <description>Photo by Simon Berger from Pexels</description>
     </item>
     

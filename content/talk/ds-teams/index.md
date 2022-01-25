@@ -12,6 +12,6 @@ subtitle: A Data Science Hangout
 title: Communicating the Value of Data Science
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkqItgPSPro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/IkqItgPSPro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Photo by Simon Berger from Pexels

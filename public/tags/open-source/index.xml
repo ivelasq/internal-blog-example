@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open source on Data Science Community Site</title>
-    <link>/tags/open-source/</link>
+    <link>/tags/open-source.html</link>
     <description>Recent content in open source on Data Science Community Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6 Steps to Successfully Bring Open-source Tools to Your Team</title>
-      <link>/blog/2021-01-25-open-source/</link>
+      <link>/blog/2021-01-25-open-source.html</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-01-25-open-source/</guid>
+      <guid>/blog/2021-01-25-open-source.html</guid>
       <description>This post is based on Rachael Dempsey&amp;rsquo;s LinkedIn post on bringing open source tools to your organization.
 Talk to IT.  IT is concerned about the security of the comapny. The team wants to understand potential security concerns, precedence, why open source is an enterprise asset. It is helpful to write up a document making the case for R to your IT dept. Be persistent but understanding. Want to learn more?</description>
     </item>

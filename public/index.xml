@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RStudio Community Monthly Events - January 2022</title>
-      <link>/blog/2022-01-25-rstudio-community-monthly-events-january-2022/</link>
+      <link>/blog/2022-01-25-rstudio-community-monthly-events-january-2022.html</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022-01-25-rstudio-community-monthly-events-january-2022/</guid>
+      <guid>/blog/2022-01-25-rstudio-community-monthly-events-january-2022.html</guid>
       <description>Photo by Jong Marshes on Unsplash
 Welcome to RStudio Community Monthly Events Roundup, where we update you on upcoming events happening at RStudio this month. Missed the great talks and presentations from last month? Find them listed under ICYMI: December 2021 Events.
 You can subscribe to the Community Events Calendar so that new events will automatically appear on your calendar. Please note that by subscribing, all of the events in the calendar will appear on your own calendar.</description>
@@ -20,57 +20,57 @@ You can subscribe to the Community Events Calendar so that new events will autom
     
     <item>
       <title>How To Start an Internal Data Science Community</title>
-      <link>/blog/2021-01-25-build-community/</link>
+      <link>/blog/2021-01-25-build-community.html</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-01-25-build-community/</guid>
+      <guid>/blog/2021-01-25-build-community.html</guid>
       <description>This post is based on Rachael Dempsey&amp;rsquo;s LinkedIn post on starting a data science community at your organization.
  Find a core group to start Centralize the team &amp;amp; information (Zoom/Slack/Teams channel) Be persistent and hold meetings regularly Standardize events to eliminate some of the work in planning Demonstrate value and ROI internally Build enthusiasm by showing completed projects to get others involved and word of mouth will help you grow  Photo by Sean Patrick from Pexels</description>
     </item>
     
     <item>
       <title>6 Steps to Successfully Bring Open-source Tools to Your Team</title>
-      <link>/blog/2021-01-25-open-source/</link>
+      <link>/blog/2021-01-25-open-source.html</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-01-25-open-source/</guid>
+      <guid>/blog/2021-01-25-open-source.html</guid>
       <description>This post is based on Rachael Dempsey&amp;rsquo;s LinkedIn post on bringing open source tools to your organization.
 Talk to IT.  IT is concerned about the security of the comapny. The team wants to understand potential security concerns, precedence, why open source is an enterprise asset. It is helpful to write up a document making the case for R to your IT dept. Be persistent but understanding. Want to learn more?</description>
     </item>
     
     <item>
       <title>Business Reports with R Markdown</title>
-      <link>/talk/business-reports-rmarkdown/</link>
+      <link>/talk/business-reports-rmarkdown.html</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/business-reports-rmarkdown/</guid>
+      <guid>/talk/business-reports-rmarkdown.html</guid>
       <description>Photo by Alessandro Sacchi on Unsplash</description>
     </item>
     
     <item>
       <title>Communicating the Value of Data Science</title>
-      <link>/talk/ds-teams/</link>
+      <link>/talk/ds-teams.html</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/ds-teams/</guid>
+      <guid>/talk/ds-teams.html</guid>
       <description>Photo by Simon Berger from Pexels</description>
     </item>
     
     <item>
       <title>Company {ggplot2} Theme</title>
-      <link>/resources/theme/</link>
+      <link>/resources/theme.html</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/resources/theme/</guid>
+      <guid>/resources/theme.html</guid>
       <description>Photo by Estúdio Bloom on Unsplash</description>
     </item>
     
     <item>
       <title>Company R Markdown Template</title>
-      <link>/resources/template/</link>
+      <link>/resources/template.html</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/resources/template/</guid>
+      <guid>/resources/template.html</guid>
       <description>Photo by Aleksandar Pasaric from Pexels</description>
     </item>
     
@@ -86,10 +86,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>Contributors</title>
-      <link>/contributors/</link>
+      <link>/contributors.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contributors/</guid>
+      <guid>/contributors.html</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
    Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
    Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
@@ -98,10 +98,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>/license.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/license/</guid>
+      <guid>/license.html</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
   </description>
     </item>

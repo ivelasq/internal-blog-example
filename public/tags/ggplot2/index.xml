@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ggplot2 on Data Science Community Site</title>
-    <link>/tags/ggplot2/</link>
+    <link>/tags/ggplot2.html</link>
     <description>Recent content in ggplot2 on Data Science Community Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Company {ggplot2} Theme</title>
-      <link>/resources/theme/</link>
+      <link>/resources/theme.html</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/resources/theme/</guid>
+      <guid>/resources/theme.html</guid>
       <description>Photo by Estúdio Bloom on Unsplash</description>
     </item>
     
